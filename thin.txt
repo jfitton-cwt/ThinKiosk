@@ -6,5 +6,5 @@ kiosk_config=https://raw.githubusercontent.com/jfitton-cwt/ThinKiosk/master/thin
 disable_private_mode=yes
 screen_settings=default:1920x1080:0.00:normal:normal:normal
 wallpaper=https://github.com/jfitton-cwt/ThinKiosk/blob/master/cwt-desktop-wallpaper.jpg
-zRAM=35%
+zRAM=30%
 additional_components=uefi.zip 11-citrix.xzm
