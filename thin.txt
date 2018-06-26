@@ -1,0 +1,10 @@
+connection=wired
+dhcp=yes
+browser=chrome
+homepage=https://access.na.carlsonwagonlit.com/Citrix/External
+kiosk_config=https://gist.githubusercontent.com/jfitton-cwt/628d5a9ede19a59c846741ccd628a5d2/raw/39e07b036498c5f76c1ecb618ef7ffe4a247ff11/thin.txt
+disable_private_mode=yes
+screen_settings=default:1152x864:0.00:normal:normal:normal
+wallpaper=http://porteus-kiosk.org/public/wallpapers/sample1.jpg
+zRAM=35%
+additional_components=uefi.zip
