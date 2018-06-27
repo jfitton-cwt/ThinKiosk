@@ -1,10 +1,6 @@
 connection=wired
 dhcp=yes
 browser=chrome
-homepage=https://access.na.carlsonwagonlit.com/Citrix/External
 kiosk_config=https://github.com/jfitton-cwt/ThinKiosk/blob/master/thin.txt
 disable_private_mode=yes
-screen_settings=default:1920x1080:0.00:normal:normal:normal
-wallpaper=https://github.com/jfitton-cwt/ThinKiosk/blob/master/cwt-desktop-wallpaper.jpg
-zRAM=30%
 additional_components=uefi.zip 11-citrix.xzm
